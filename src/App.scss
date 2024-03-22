@@ -1,0 +1,11 @@
+@import './src/components/variables/reset.scss';
+@import './src/components/variables/variables.scss';
+
+
+.App {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 92px 33px 78px 33px;
+}

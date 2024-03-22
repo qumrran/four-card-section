@@ -1,0 +1,66 @@
+@import '../variables/variables.scss';
+@import '../variables/reset.scss';
+
+.featureSection {
+	width: 100%;
+	@media screen and (min-width: 1160px) {
+		max-width: 1200px;
+		display: flex;
+		justify-content: center;
+		flex-wrap: wrap;
+		gap: 30px;
+	}
+}
+
+.feature {
+	display: flex;
+	flex-direction: column;
+	min-height: 222px;
+	padding: 20px;
+	background-color: $white;
+	border-radius: 5px;
+	border-top: 4px solid $cyan;
+	margin-bottom: 25px;
+	box-shadow: 0px 16px 24px -3px rgb(179, 179, 183);
+	@media screen and (min-width: 1160px) {
+		width: 340px;
+	}
+	&__name {
+		margin-bottom: 10px;
+		font-size: 20px;
+		color: $very-dark-blue;
+	}
+	&__description {
+		color: $grayish-blue;
+		margin: 0;
+	}
+
+	&__image {
+		align-self: flex-end;
+	}
+}
+
+.Num1 {
+	@media screen and (min-width: 1160px) {
+		transform: translateY(50%);
+	}
+}
+
+.Num2 {
+	@media screen and (min-width: 1160px) {
+		margin: 0;
+	}
+}
+
+.Num3 {
+	@media screen and (min-width: 1160px) {
+		order: 4;
+	}
+}
+
+.Num4 {
+	@media screen and (min-width: 1160px) {
+		order: 3;
+		transform: translateY(50%);
+	}
+}
