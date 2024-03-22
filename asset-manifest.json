@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/four-card-section/static/css/main.f855e6bc.css",
-    "main.js": "/four-card-section/static/js/main.df79b800.js",
-    "static/js/453.ce0a515c.chunk.js": "/four-card-section/static/js/453.ce0a515c.chunk.js",
-    "static/media/logo.svg": "/four-card-section/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/four-card-section/static/css/main.ac5af6cb.css",
+    "main.js": "/four-card-section/static/js/main.6ec10c63.js",
+    "static/media/icon-karma.svg": "/four-card-section/static/media/icon-karma.24e0debeb1e51eaa14e295270e33df54.svg",
+    "static/media/icon-supervisor.svg": "/four-card-section/static/media/icon-supervisor.2dd10a2df2ddca34f77ca6a2065c6be2.svg",
+    "static/media/icon-team-builder.svg": "/four-card-section/static/media/icon-team-builder.b885fb580a3cb78c9ad249750dd65a01.svg",
+    "static/media/icon-calculator.svg": "/four-card-section/static/media/icon-calculator.21bc9adc97d084a64aedb386f1e35c0d.svg",
     "index.html": "/four-card-section/index.html",
-    "main.f855e6bc.css.map": "/four-card-section/static/css/main.f855e6bc.css.map",
-    "main.df79b800.js.map": "/four-card-section/static/js/main.df79b800.js.map",
-    "453.ce0a515c.chunk.js.map": "/four-card-section/static/js/453.ce0a515c.chunk.js.map"
+    "main.ac5af6cb.css.map": "/four-card-section/static/css/main.ac5af6cb.css.map",
+    "main.6ec10c63.js.map": "/four-card-section/static/js/main.6ec10c63.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.df79b800.js"
+    "static/css/main.ac5af6cb.css",
+    "static/js/main.6ec10c63.js"
   ]
 }
